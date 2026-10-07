@@ -1,0 +1,21 @@
+Naša probna datoteka igranje_s_perom.txt 
+sadržavat će puno redaka koji imaju pero napisan na razno razne načine
+poput pero pero pero
+ili povremeno nešto slično poput PeZo
+pero ide na peron
+na peron ide mate
+na peron ide pero
+pero
+a zašto ne i pEro
+ili možda Pero
+ili Pero
+ako napravim tipfeler evo imamo i peso
+možda može ispisati i pesimističnu varijantu ako ima o iza?
+ili možda pesto za paštu
+PeSo
+PeRRo
+treba paziti kad želimo tražiti specijalne znakove poput točke u pe.o
+peero
+pEEro
+peEro
+pEro
